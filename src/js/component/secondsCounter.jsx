@@ -19,7 +19,7 @@ const SecondsCounter = (props) => {
 				<div id="sixth"><h1>{props.counter6}</h1></div>
 				<div id="fifth"><h1>{props.counter5}</h1></div>
 				<div id="fourth"><h1>{props.counter4}</h1></div>
-				<div id="tirth"><h1>{props.counter3}</h1></div>
+				<div id="third"><h1>{props.counter3}</h1></div>
 				<div id="second"><h1>{props.counter2}</h1></div>
 				<div id="first"><h1>{props.counter1}</h1></div>
 			</div>

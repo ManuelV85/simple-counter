@@ -2,7 +2,7 @@ body {
     background-color: rgb(50, 58, 102);
   }
   div.box {
-    height: 90px;
+    height: 75px;
     width: 453px;
     background-color: rgb(31, 29, 29);
     margin: 0px auto;
@@ -17,7 +17,7 @@ body {
     margin-top: 5px;
     margin-left: 4px;
     text-align: center;
-    border-style: outset;
+    border-style: groove;
     border-radius: 50%;
     
    
@@ -29,18 +29,18 @@ body {
     height: 60px;
     margin-left: 4px;
     text-align: center;
-    border-style: outset;
+    border-style:groove;
     border-radius: 50%;
     
 }
-#tirth{
+#third{
     display:inline-block;
     background-color:gray;
     width: 60px;
     height: 60px;
     margin-left: 4px;
     text-align: center;
-    border-style: outset;
+    border-style: groove;
     border-radius: 50%;
    
 }
@@ -51,7 +51,7 @@ body {
     height: 60px;
     margin-left: 4px;
     text-align: center;
-    border-style: outset;
+    border-style: groove;
     border-radius: 50%;
 }
 #fifth{
@@ -61,7 +61,7 @@ body {
     height: 60px;
     margin-left: 4px;
     text-align: center;
-    border-style: outset;
+    border-style: groove;
     border-radius: 50%;
     
 }
@@ -72,7 +72,7 @@ body {
     height: 60px;
     margin-left: 4px;
     text-align: center;
-    border-style: outset;
+    border-style: groove;
     border-radius: 50%;
 }
 #imagen{
@@ -82,7 +82,7 @@ body {
     width: 60px;
     margin-left: 4px;
     text-align: center;
-    border-style: outset;
+    border-style: groove;
     border-radius: 50%;
     
 }
